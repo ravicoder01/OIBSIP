@@ -31,7 +31,7 @@ for i in collection:
     password+=i
 
 print("your random password generated is :",password)    
-n=True
+
 
 
 
