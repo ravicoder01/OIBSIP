@@ -59,7 +59,7 @@ python voice_assistant.py
 
 ## 📃 Certificate
 
-> _This project was completed as part of the Oasis Infobyte Internship (June–July 2024), where I was recognized as a **Star Performer**._
+> _This project was completed as part of the Oasis Infobyte Internship (June–July 2024), where I was recognized as a **Star Performer** entire internship._
 
 ---
 
